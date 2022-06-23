@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+visit this project which gathers all the projects I have contributed to : [My Developer Life](https://github.com/Thibault-COLIN/My_Projects)
+
 <!--
 **Thibault-COLIN/Thibault-COLIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
